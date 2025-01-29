@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1738131036 source:c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\main.cpp
+	<iostream>
+	<string>
+	"C:\Users\Marti\OneDrive\Desktop\Universidad\Codigos\proyecto2p\MENUALVAREZ.h"
+	"C:\Users\Marti\OneDrive\Desktop\Universidad\Codigos\proyecto2p\SALDOALVAREZ.h"
+	"C:\Users\Marti\OneDrive\Desktop\Universidad\Codigos\proyecto2p\COMPRARALVAREZ.h"
+	"C:\Users\Marti\OneDrive\Desktop\Universidad\Codigos\proyecto2p\INVENTARIOALVAREZ.h"
+	"C:\Users\Marti\OneDrive\Desktop\Universidad\Codigos\proyecto2p\INGRESARALVAREZ.h"
+
+1738130498 c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\menualvarez.h
+	<iostream>
+	<string>
+
+1738130642 c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\saldoalvarez.h
+	<iostream>
+	<string>
+
+1738130792 c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\compraralvarez.h
+	<iostream>
+	<string>
+
+1738130952 c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\inventarioalvarez.h
+	<iostream>
+	<string>
+
+1738131036 c:\users\marti\onedrive\desktop\universidad\codigos\proyecto2p\ingresaralvarez.h
+	<iostream>
+	<string>
+
